@@ -1,0 +1,21 @@
+{
+  "name": "slate-neon",
+  "displayName": "Slate Neon",
+  "description": "Slate Neon is a dark, minimalist theme with soft neon accents. Subtle colors for functions, classes, and variables make your code easy to read and gentle on the eyes.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Slate Neon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Slate Neon-color-theme.json"
+      }
+    ]
+  }
+}
