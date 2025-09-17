@@ -3,7 +3,7 @@
 Slate Neon is a dark, minimalist theme with soft neon accents. Subtle colors for functions, classes, and variables make your code easy to read and gentle on the eyes.
 
 ## Screenshots
-![Preview](screenshot.png)
+![Preview](preview.png)
 
 ## Install from repository
 1. Clone this repo
