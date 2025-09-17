@@ -1,16 +1,14 @@
-# slate-neon README
+# Slate Neon for VS Code
 
-## Working with Markdown
+Slate Neon is a dark, minimalist theme with soft neon accents. Subtle colors for functions, classes, and variables make your code easy to read and gentle on the eyes.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Installation
+1. Clone this repo
+2. Copy the folder into your VS Code extensions directory:
+   - Windows: `%USERPROFILE%\.vscode\extensions`
+   - Linux/macOS: `~/.vscode/extensions`
+3. Restart VS Code
+4. Open Command Palette → `Preferences: Color Theme` → select **Slate Neon**
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## License
+MIT
