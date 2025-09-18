@@ -14,7 +14,7 @@ Slate Neon is a dark, minimalist theme with soft neon accents. Subtle colors for
 4. Open Command Palette → `Preferences: Color Theme` → select **Slate Neon**
 
 ## Install from Marketplace
-Search for "Slate Neon" in the Extensions panel or install directly: [Slate Neon on Marketplace](https://marketplace.visualstudio.com/items?itemName=k4rdel.slate-neon)
+Search for "Slate Neon" in the Extensions panel or install directly: [Slate Neon on Marketplace](https://marketplace.visualstudio.com/items?itemName=OskarSodel.slate-neon)
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
