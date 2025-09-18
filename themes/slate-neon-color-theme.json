@@ -75,6 +75,17 @@
 		"settings": { "foreground": "#A0F0C0" }
 	},
 	{
+	"scope": [
+		"entity.name.tag.css",                // body, h1, h4
+		"entity.other.attribute-name.id.css", // #front, #second
+		"entity.other.attribute-name.class.css" // .container, .row
+	],
+	"settings": {
+		"foreground": "#FF6FAE",     // neon pink, możesz wybrać dowolny inny!
+		"fontStyle": "bold"
+	}
+	},
+	{
 		"scope": ["support.type.property-name.css", "meta.property-name.css"],
 		"settings": { "foreground": "#FFA64F" }
 	},
