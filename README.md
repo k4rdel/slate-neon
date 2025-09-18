@@ -13,8 +13,15 @@ Slate Neon is a dark, minimalist theme with soft neon accents. Subtle colors for
 3. Restart VS Code
 4. Open Command Palette → `Preferences: Color Theme` → select **Slate Neon**
 
+
 ## Install from Marketplace
 Search for "Slate Neon" in the Extensions panel or install directly: [Slate Neon on Marketplace](https://marketplace.visualstudio.com/items?itemName=OskarSodel.slate-neon)
+
+## Owner
+
+[![Oskar S.](https://avatars.githubusercontent.com/u/67971701?v=4)](https://github.com/k4rdel) |
+:---: |
+[Derek S.](https://github.com/k4rdel) |
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
