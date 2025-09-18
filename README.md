@@ -21,7 +21,7 @@ Search for "Slate Neon" in the Extensions panel or install directly: [Slate Neon
 
 [![Oskar S.](https://avatars.githubusercontent.com/u/67971701?v=4)](https://github.com/k4rdel) |
 :---: |
-[Derek S.](https://github.com/k4rdel) |
+[Oskar S.](https://github.com/k4rdel) |
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
