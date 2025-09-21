@@ -2,7 +2,7 @@
   "name": "slate-neon",
   "displayName": "Slate Neon",
   "description": "Slate Neon is a dark, minimalist theme with soft neon accents. Subtle colors for functions, classes, and variables make your code easy to read and gentle on the eyes.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "OskarSodel",
   "icon": "icon.png",
   "engines": {
